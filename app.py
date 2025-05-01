@@ -1,2 +1,2 @@
-Print("Hello World!")
-Print("How are the users in this planet?")
+print("Hello World!")
+print("How are the users in this planet?")
